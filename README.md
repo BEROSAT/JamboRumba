@@ -3,7 +3,7 @@
   "0":{
   "id":"1",
   "name":"TRACE BAZUKA",
-  "description":"01",
+  "description":"801",
   "live_url":"https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8",
   "thumbnail":"https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png",
   "categorie":"RUMBA",
@@ -15,7 +15,7 @@
   "1":{
   "id":"2",
   "name":"NICK MUSIC",
-  "description":"1",
+  "description":"802",
   "live_url":"http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
   "categorie":"RUMBA",
@@ -27,7 +27,7 @@
   "2":{
   "id": "3",
   "name": "TRACE URBAN",
-  "description": "Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale...",
+  "description": "803",
   "live_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban.jpeg",
   "categorie": "RUMBA",
@@ -39,7 +39,7 @@
   "3":{
   "id": "4",
   "name": "AFROBEATS",
-  "description": "Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe",
+  "description": "804",
   "live_url": "https://stream.ecable.tv/afrobeats/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTEwMjk3MDBf/afrobeats.jpg",
   "categorie": "RUMBA",
@@ -51,7 +51,7 @@
   "4":{
   "id": "5",
   "name": "DBN TV",
-  "description": "DBN TV est la chaine consacrée à la musique d'Afrique et internationale",
+  "description": "805",
   "live_url": "https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ5NDRf/dbm.jpg",
   "categorie": "RUMBA",
@@ -63,7 +63,7 @@
   "5":{
   "id": "6",
   "name": "TRACE IVOIRE",
-  "description": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique",
+  "description": "806",
   "live_url": "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
   "categorie": "RUMBA",
@@ -75,7 +75,7 @@
   "6":{
   "id": "7",
   "name": "V2BEAT TV",
-  "description": "V2beat TV est la chaîne consacree à la musique internationale",
+  "description": "807",
   "live_url": "https://de1se01.v2beat.live/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg",
   "categorie": "RUMBA",
@@ -87,7 +87,7 @@
   "7":{
   "id": "8",
   "name": "AYISYANA MUSIK",
-  "description": "Ayisyana Musik TV est une chaîne de télévision du musique international",
+  "description": "808",
   "live_url": "https://59d39900ebfb8.streamlock.net:443/RTHAITIANA/RTHAITIANA/chunklist_w1180876317.m3u8",
   "thumbnail": "https://od.lk/s/M18yODgxNTgwNDVf/ayisyane.jpg",
   "categorie": "RUMBA",
@@ -99,7 +99,7 @@
   "8":{
   "id": "9",
   "name": "T.M.A CARAÏBES",
-  "description": "TMA Caraïbes est une chaîne télévisée spécialisée dans la musique africaine et international..",
+  "description": "809",
   "live_url": "http://hls.tmacaraibes.com/live/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjMyMzgzMjhf/tma.jpeg",
   "categorie": "RUMBA",
@@ -111,7 +111,7 @@
   "9":{
   "id": "10",
   "name": "HMI PROMZ",
-  "description": "HMI PROMZ NEWS is an independent communication and multimedia company working in the promotion, distribution, production of Haitian music and culture in general. This multidimensional company was founded on March 30, 2019 by career journalist Claude Bellevue, gathering around him, a group of professionals working in the field of information, public relations, major events, marketing, audiovisual, staging, lighting, sound and artistic creation in order to offer an international audience to the rich Haitian culture",
+  "description": "810",
   "live_url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg",
   "categorie": "RUMBA",
@@ -123,7 +123,7 @@
   "10":{
   "id": "11",
   "name": "MUZIK TV",
-  "description": "Muzik TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international",
+  "description": "811",
   "live_url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
   "categorie": "RUMBA",
@@ -135,7 +135,7 @@
   "11":{
   "id": "12",
   "name": "MY MUSIC TV",
-  "description": "MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international.",
+  "description": "812",
   "live_url": "http://mntv.livebox.co.in/musichls/live.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTkwOTlf/Mmusic.jpg",
   "categorie": "RUMBA",
@@ -147,8 +147,8 @@
 }
 
 
-  "4":{
-  "id": "4",
+"12":{
+  "id": "13",
   "name": "TELE MUSIK",
   "description": "Tele Musik TV est la chaine privee du senegal consacree au music...",
   "live_url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8",
