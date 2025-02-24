@@ -12,6 +12,18 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+   "0":{
+  "id":"1",
+  "name":"NICK MUSIC",
+  "description":"1",
+  "live_url":"http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+  "categorie":"RUMBA",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
   "1":{
   "id": "1",
   "name": "TRACE URBAN",
@@ -48,19 +60,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
-  "name": "TELE MUSIK",
-  "description": "Tele Musik TV est la chaine privee du senegal consacree au music...",
-  "live_url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
-  "categorie": "RUMBA",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  },
-   "5":{
+  "5":{
   "id": "5",
   "name": "TRACE IVOIRE",
   "description": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique",
@@ -137,7 +137,7 @@
   "name": "MY MUSIC TV",
   "description": "MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international.",
   "live_url": "http://mntv.livebox.co.in/musichls/live.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
+  "thumbnail": "https://od.lk/s/NDZfNzgyNTkwOTlf/Mmusic.jpg",
   "categorie": "RUMBA",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
@@ -146,3 +146,16 @@
   }
 }
 
+
+  "4":{
+  "id": "4",
+  "name": "TELE MUSIK",
+  "description": "Tele Musik TV est la chaine privee du senegal consacree au music...",
+  "live_url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
+  "categorie": "RUMBA",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
